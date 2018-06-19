@@ -16,6 +16,8 @@ puts snacks
 def breakfast(breakfast="Frosted Flakes")
   "Morning is the best time for #{breakfast}!"
 end
+puts breakfast
+puts breakfast ("pancakes")
 
 def lunch(lunch="Grilled Cheese")
   "Lunch is the best time for #{lunch}!"
