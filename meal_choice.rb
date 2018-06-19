@@ -21,18 +21,18 @@ def breakfast(breakfast="Frosted Flakes")
 end
 
 puts breakfast
-puts breakfast ("pancakes")
+puts breakfast("pancakes")
 
 def lunch(lunch="Grilled Cheese")
   "Lunch is the best time for #{lunch}!"
 end
 
 puts lunch
-puts lunch ("fruit")
+puts lunch("fruit")
 
 def dinner(dinner="Salmon")
   "Dinner is the best time for #{dinner}!"
 end
 
 puts dinner
-puts dinner ("chicken")
+puts dinner("chicken")
